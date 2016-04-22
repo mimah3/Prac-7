@@ -2,10 +2,15 @@ LIST OF MEMBERS FOR TEAM 080
 
 LUMI SHRESTHA
 
-MATILDA MAHE
+MATILDA MAHER
 
 CHUN JIE PEK
 
 JAMES MCEVOY
 
+<<<<<<< HEAD
 This is an edit.
+=======
+Pls solve conflict!
+!
+>>>>>>> origin/master
