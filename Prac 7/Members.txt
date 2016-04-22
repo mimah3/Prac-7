@@ -8,5 +8,9 @@ CHUN JIE PEK
 
 JAMES MCEVOY
 
+<<<<<<< HEAD
 This is an edit.
-
+=======
+Pls solve conflict!
+!
+>>>>>>> origin/master
