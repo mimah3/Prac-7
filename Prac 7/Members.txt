@@ -7,10 +7,16 @@ MATILDA MAHER
 CHUN JIE PEK
 
 JAMES MCEVOY
+<<<<<<< HEAD
+=======
 
 <<<<<<< HEAD
 This is an edit.
+<<<<<<< HEAD
 =======
 Pls solve conflict!
 !
+=======
+
+>>>>>>> origin/master
 >>>>>>> origin/master
